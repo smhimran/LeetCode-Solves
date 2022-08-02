@@ -1,3 +1,3 @@
 Take 2 pointer l(left pointer) and r(right pointer) pointing to 0th and (n-1)th index respectively.Take two variables `leftMax` and `rightMax` and initialise it to 0.If `height[l]` is less than or equal to `height[r]` then if `leftMax` is less then `height[l]` update leftMax to `height[l]` else add `leftMax-height[l]` to your final answer and move the `l` pointer to the right i.e `l++`.If `height[r]` is less then `height[l]`,then now we are dealing with the right block.If `height[r]` is greater then `rightMax`,then update `rightMax` to `height[r]` else add `rightMax-height[r]` to the final answer.Now move `r` to the left. Repeat theses steps till `l` and `r` crosses each other.
-​
-*Credit: *[takeUforward](https://takeuforward.org/data-structure/trapping-rainwater/)
+​  
+*Credit: * [takeUforward](https://takeuforward.org/data-structure/trapping-rainwater/)
