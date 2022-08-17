@@ -1,25 +1,25 @@
 class Solution {
     public List<List<Integer>> subsetsWithDup(int[] nums) {
-        List<List<Integer>> ret = new ArrayList<>();
-        Map<List<Integer>, Boolean> taken = new HashMap<>();
-        int n = nums.length;
+        List<Integer> subset = new ArrayList<>();
+        List<List<Integer>> subsets = new ArrayList<>();
         
-        for (int i = 0; i < (1 << n); i++) {
-            List<Integer> now = new ArrayList<>();
-            for (int j = 0; j < n; j++) {
-                if ((i & (1 << j)) != 0) {
-                    now.add(nums[j]);
-                }
-            }
+        Arrays.sort(nums);
+        
+        fun(nums, 0, nums.length, subset, subsets);
+        
+        return subsets;
+    }
+    
+    private void fun(int[] nums, int i, int n, List<Integer> subset, List<List<Integer>> subsets) {
+        subsets.add(new ArrayList<>(subset));
+        
+        for (int j=i; j<n; j++) {
+            if (j > i && (nums[j] == nums[j-1]))
+                continue;
             
-            Collections.sort(now);
-            
-            if (!taken.containsKey(now)) {
-                taken.put(now, true);
-                ret.add(now);
-            }
+            subset.add(nums[j]);
+            fun(nums, j+1, n, subset, subsets);
+            subset.remove(subset.size() - 1);
         }
-        
-        return ret;
     }
 }
