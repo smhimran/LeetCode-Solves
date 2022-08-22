@@ -1,0 +1,1 @@
+If n is a power of `3`, it must be **greater than `0`** and it **can divide another power of `3`**. The smallest power of `3` greater than `32` bits positive is `3486784401`
