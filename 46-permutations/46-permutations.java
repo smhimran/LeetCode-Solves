@@ -9,7 +9,7 @@ class Solution {
     
     private void getPermutation(int[] nums, int i, List<List<Integer>> permutations) {
         if (i == nums.length) {
-            List<Integer> list = new ArrayList<>(Arrays.stream(nums).boxed().collect(Collectors.toList()));
+            List<Integer> list = Arrays.stream(nums).boxed().collect(Collectors.toList());
             permutations.add(list);
             return;
         }
