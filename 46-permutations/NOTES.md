@@ -1,1 +1,2 @@
-​
+`f(int[] arr, int i, List<> ret)`
+In each step, loop from `i` to end of the array, and swap current number with `arr[i]`. After returning from the recursion, swap those values again to return them in their previous positions.
