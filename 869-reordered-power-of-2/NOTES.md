@@ -1,0 +1,1 @@
+Precalculate each power of 2. Use frequency count to check if it is possible to make such a number.
