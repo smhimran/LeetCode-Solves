@@ -1,0 +1,1 @@
+Use Recursion. Visit left, add current node, then visit right.
