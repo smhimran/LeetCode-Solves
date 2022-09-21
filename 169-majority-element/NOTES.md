@@ -1,0 +1,2 @@
+Take the first number as answer, set the position at first. For each position, if the current number matches the number at position, increase the count. Otherwise, decrease it. If the count reaches 0, then set the position to current number.
+The intuition behind this is, the majority element will have the highest frequency in the array. So we take each number as the answer and increase the frequency if we find it again. Otherwise we decrease it. If the frequency reaches 0, which means this number can not be the answer, so we take the current number as new answer.
