@@ -1,0 +1,1 @@
+Use String.split() and StringBuiler. You can also use String.trim()
