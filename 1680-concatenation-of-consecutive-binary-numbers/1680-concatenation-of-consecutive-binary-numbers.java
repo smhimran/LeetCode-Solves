@@ -1,7 +1,7 @@
 class Solution {
     public int concatenatedBinary(int n) {
         long result = 0;
-        int mod = 1000000007;
+        final int mod = 1000000007;
         int numberOfBits = 0;
         
         for (int i = 1; i <= n; i++) {
