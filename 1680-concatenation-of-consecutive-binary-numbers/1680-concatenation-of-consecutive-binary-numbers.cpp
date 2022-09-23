@@ -2,7 +2,7 @@ class Solution {
 public:
     int concatenatedBinary(int n) {
         long result = 0;
-        int mod = (int) 1e9 + 7;
+        long mod = (int) 1e9 + 7;
         int numberOfBits = 0;
         
         for (int i = 1; i <= n; i++) {
@@ -17,6 +17,6 @@ public:
             }
         }
         
-        return result;
+        return (int) result;
     }
 };
