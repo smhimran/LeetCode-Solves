@@ -17,6 +17,6 @@ public:
             }
         }
         
-        return (int) result;
+        return result;
     }
 };
