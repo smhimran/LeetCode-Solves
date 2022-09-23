@@ -2,7 +2,6 @@ class Solution {
 public:
     int concatenatedBinary(int n) {
         long result = 0;
-        const int mod = 1000000007;
         int numberOfBits = 0;
         
         for (int i = 1; i <= n; i++) {
@@ -12,8 +11,8 @@ public:
             
             result = ((result << numberOfBits) + i);
             
-            if (result >= mod) {
-                result %= mod;
+            if (result >= 1000000007) {
+                result %= 1000000007;
             }
         }
         
