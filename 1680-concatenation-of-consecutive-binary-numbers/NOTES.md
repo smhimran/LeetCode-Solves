@@ -1,1 +1,1 @@
-This is how I made the program fastest. I replaced modulo operation with subtraction.
+This is how I made the program fastest. I did modulo operation only when necessary.
