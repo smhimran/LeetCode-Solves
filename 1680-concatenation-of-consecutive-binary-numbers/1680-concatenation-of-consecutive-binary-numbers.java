@@ -9,7 +9,11 @@ class Solution {
                 numberOfBits++;
             }
             
-            result = ((result << numberOfBits) + i) % mod;
+            result = ((result << numberOfBits) + i);
+            
+            if (result >= mod) {
+                result %= mod;
+            }
         }
         
         return (int) result;
