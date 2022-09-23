@@ -1,7 +1,7 @@
 class Solution {
 public:
     int concatenatedBinary(int n) {
-        long result = 1L;
+        long result = 1;
         int numberOfBits = 1;
         
         for (int i = 2; i <= n; i++) {
