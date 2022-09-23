@@ -8,13 +8,10 @@ class Solution {
         for (int i = 1; i <= n; i++) {
             if (i == currentPowerOfTwo) {
                 numberOfBits++;
+                currentPowerOfTwo *= 2;
             }
             
             result = ((result << numberOfBits) + i) % mod;
-            
-            if (i == currentPowerOfTwo) {
-                currentPowerOfTwo *= 2;
-            }
         }
         
         return (int) result;
