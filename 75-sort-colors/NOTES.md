@@ -1,0 +1,2 @@
+**Dutch National Flag Problem**
+Keep three index, low, mid, and high, which represents the three segments of 0, 1, and 2,. low and mid should start from 0, high should start from 1. In each step, check if the value in mid is 0, 1, or 2. If if it is 0, then it should be in low, so we swap low with mid and then increment both mid and low. If mid is 2, then it should be in high, so we swap with high and decrease high. If it is 1 then we ignore it as it is. We keep doing this until mid passes high.
