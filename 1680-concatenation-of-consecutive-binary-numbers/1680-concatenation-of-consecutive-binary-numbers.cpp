@@ -1,11 +1,11 @@
 class Solution {
 public:
     int concatenatedBinary(int n) {
-        long result = 1L;
+        long result = 0;
         int mod = 1000000007;
-        int numberOfBits = 2;
+        int numberOfBits = 1;
         
-        for (int i = 2; i <= n; i++) {
+        for (int i = 1; i <= n; i++) {
             if (i == (1 << numberOfBits)) {
                 numberOfBits++;
             }
@@ -17,6 +17,6 @@ public:
             }
         }
         
-        return (int) result;
+        return result;
     }
 };
