@@ -3,7 +3,7 @@ public:
     int concatenatedBinary(int n) {
         long result = 0;
         int mod = 1000000007;
-        int numberOfBits = 1;
+        int numberOfBits = 0;
         
         for (int i = 1; i <= n; i++) {
             if (i == (1 << numberOfBits)) {
@@ -17,6 +17,6 @@ public:
             }
         }
         
-        return result;
+        return (int) result;
     }
 };
