@@ -1,0 +1,1 @@
+Greedy. For each consecutive ballons, remove the one with minimum cost.
