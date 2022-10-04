@@ -1,0 +1,2 @@
+Two pointers.
+We keep checking from rightmost column of the first row. If the target matches, we return true. If the target if greater than current value, we move to the next row (target could not be found in this row). Else, we move to the previous column (keep checking in this row).
