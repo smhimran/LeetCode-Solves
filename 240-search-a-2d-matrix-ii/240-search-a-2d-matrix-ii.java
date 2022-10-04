@@ -1,12 +1,23 @@
 class Solution {
     public boolean searchMatrix(int[][] matrix, int target) {
-        boolean found = false;
+        int numberOfRows = matrix.length;
+        int numberOfColumns = matrix[0].length;
 
-        for (int i = 0; i < matrix.length; i++) {
-            int index = Arrays.binarySearch(matrix[i], target);
-            found |= (index >= 0);
+        int row = 0;
+        int column = numberOfColumns - 1;
+
+        while (row < numberOfRows && column >= 0) {
+            int currentValue = matrix[row][column];
+
+            if (currentValue == target) {
+                return true;
+            } else if (currentValue < target) {
+                row++;
+            } else {
+                column--;
+            }
         }
-        
-        return found;
+
+        return false;
     }
 }
