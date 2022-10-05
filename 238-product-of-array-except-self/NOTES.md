@@ -1,0 +1,1 @@
+First we calculate the cumulative product of all the elements in reverse and store it in the result array. Then we start from the begiinning, calculate cumulative product upto the previous number, multiply it with `result[i + 1]`, i.e., reverse cumulative product upto the next element.
