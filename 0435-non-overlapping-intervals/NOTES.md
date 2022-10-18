@@ -1,0 +1,1 @@
+Greedy. Sort intervals based on their end.
