@@ -1,0 +1,1 @@
+Keep two stacks. One of them is [**Monotionic Stack**](https://liuzhenglaichn.gitbook.io/algorithm/monotonic-stack).
