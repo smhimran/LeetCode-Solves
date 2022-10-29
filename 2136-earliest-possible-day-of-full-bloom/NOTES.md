@@ -1,0 +1,1 @@
+Greedy. Plant the one with maximum time to grow first. (We can plant other seed while this one grows).
