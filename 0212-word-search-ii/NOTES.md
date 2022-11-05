@@ -1,1 +1,1 @@
-​
+Used HashSet. Remove the word from dictionary once found. Also, we don't need to check if we already reached the maximum length of possible word.
