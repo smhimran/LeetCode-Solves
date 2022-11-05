@@ -1,5 +1,5 @@
 class Solution {
-    Set<String> wordSet;
+    Set<String> dictionary;
     Set<String> resultSet;
 
     char[][] board;
@@ -8,7 +8,7 @@ class Solution {
 
     public Solution() {
         resultSet = new HashSet<>();
-        wordSet = new HashSet<>();
+        dictionary = new HashSet<>();
     }
 
     public List<String> findWords(char[][] board, String[] words) {
@@ -18,7 +18,7 @@ class Solution {
 
 
         for (String word: words) {
-            wordSet.add(word);
+            dictionary.add(word);
             maxLength = Math.max(maxLength, word.length());
         }
 
@@ -51,9 +51,9 @@ class Solution {
 
         String now = word + board[i][j];
 
-        if (wordSet.contains(now)) {
+        if (dictionary.contains(now)) {
             resultSet.add(now);
-            wordSet.remove(now);
+            dictionary.remove(now);
         }
         
         visited[i][j] = true;
