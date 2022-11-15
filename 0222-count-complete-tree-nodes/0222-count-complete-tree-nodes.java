@@ -23,11 +23,25 @@ class Solution {
             return 0;
         }
 
-        int numberOfChilds = 0;
+        int leftHeight = 0, rightHeight = 0;
 
-        numberOfChilds += dfs(node.left);
-        numberOfChilds += dfs(node.right);
+        TreeNode left = node;
+        TreeNode right = node;
 
-        return numberOfChilds + 1;
+        while (left != null) {
+            left = left.left;
+            leftHeight++;
+        }
+
+        while (right != null) {
+            right = right.right;
+            rightHeight++;
+        }
+
+        if (leftHeight == rightHeight) {
+            return (int) Math.pow(2, leftHeight) - 1;
+        }
+
+        return 1 + dfs(node.left) + dfs(node.right);
     }
 }
