@@ -14,40 +14,21 @@
  * }
  */
 class Solution {
-    Map<TreeNode, TreeNode> parentMap = new HashMap<>();
-    int maximumDifference = 0;
-
     public int maxAncestorDiff(TreeNode root) {
-        parentMap.put(root, root);
-        dfs(root);
-        return maximumDifference;
+        return dfs(root, root.val, root.val);
     }
 
-    private void dfs(TreeNode node) {
-        if (node.left != null)         {
-            parentMap.put(node.left, node);
-            calculate(node, node.left);
-            dfs(node.left);
+    private int dfs(TreeNode node, int currentMin, int currentMax) {
+        if (node == null) {
+            return currentMax - currentMin;
         }
 
-        if (node.right != null) {
-            parentMap.put(node.right, node);
-            calculate(node, node.right);
-            dfs(node.right);
-        }
-    }
+        currentMin = Math.min(currentMin, node.val);
+        currentMax = Math.max(currentMax, node.val);
 
-    private void calculate(TreeNode node, TreeNode current) {
-        int difference = Math.abs(node.val - current.val);
+        int maxDiffLeft = dfs(node.left, currentMin, currentMax);
+        int maxDiffRight = dfs(node.right, currentMin, currentMax);
 
-        maximumDifference = Math.max(maximumDifference, difference);
-        
-        TreeNode ancestor = parentMap.get(node);
-        
-        if (ancestor.equals(node)) {
-            return;
-        }
-
-        calculate(ancestor, current);
+        return Math.max(maxDiffLeft, maxDiffRight);
     }
 }
