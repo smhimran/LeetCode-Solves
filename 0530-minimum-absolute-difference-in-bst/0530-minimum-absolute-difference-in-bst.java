@@ -14,19 +14,11 @@
  * }
  */
 class Solution {
-    private final List<Integer> nodes = new ArrayList<>();
+    private int previousNode = -1;
+    private int minimumDifference = Integer.MAX_VALUE;
 
     public int getMinimumDifference(TreeNode root) {
         dfs(root);
-
-        Collections.sort(nodes);
-
-        int minimumDifference = Integer.MAX_VALUE;
-
-        for (int i = 1; i < nodes.size(); i++) {
-            minimumDifference = Math.min(minimumDifference, nodes.get(i) - nodes.get(i - 1));
-        }
-
         return minimumDifference;
     }
 
@@ -35,9 +27,14 @@ class Solution {
             return;
         }
 
-        nodes.add(node.val);
-
         dfs(node.left);
+        
+        if (previousNode >= 0) {
+            minimumDifference = Math.min(minimumDifference, node.val - previousNode);
+        }
+
+        previousNode = node.val;
+        
         dfs(node.right);
     }
 }
