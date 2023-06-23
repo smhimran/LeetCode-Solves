@@ -3,12 +3,12 @@ type Fn = (...args: any[]) => any
 function once(fn: Fn): Fn {
     let called = false;
   return function (...args) {
-      if (!called) {
-          called = true;
-          return fn(...args);
-      } else {
-          return undefined;
-      }
+    if (called) {
+        return undefined;
+    }
+    
+    called = true;
+    return fn(...args);
   };
 }
 
