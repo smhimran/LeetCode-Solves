@@ -1,14 +1,10 @@
 function cancellable(fn: Function, args: any[], t: number): Function {
-    let cancelled = false;
-
-    setTimeout(() => {
-        if (!cancelled) {
-            fn(...args);
-        }
+    const timeout = setTimeout(() => {
+        fn(...args);
     }, t);
 
     return function() {
-        cancelled = true;
+        clearTimeout(timeout);
     }
 };
 
