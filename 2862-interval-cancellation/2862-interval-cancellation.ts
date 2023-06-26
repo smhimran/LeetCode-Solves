@@ -1,7 +1,7 @@
 function cancellable(fn: Function, args: any[], t: number): Function {
     fn(...args);
 
-    let interval = setInterval(() => {
+    const interval = setInterval(() => {
         fn(...args);
     }, t);
 
