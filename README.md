@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/smhimran/LeetCode-Solves/tree/master/0050-powx-n) |
 | [1014-k-closest-points-to-origin](https://github.com/smhimran/LeetCode-Solves/tree/master/1014-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
@@ -31,4 +32,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/smhimran/LeetCode-Solves/tree/master/1014-k-closest-points-to-origin) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/smhimran/LeetCode-Solves/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
