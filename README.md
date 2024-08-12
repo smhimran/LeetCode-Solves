@@ -36,4 +36,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/smhimran/LeetCode-Solves/tree/master/0050-powx-n) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/smhimran/LeetCode-Solves/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
