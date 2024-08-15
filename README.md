@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/smhimran/LeetCode-Solves/tree/master/0739-daily-temperatures) |
+| [0890-lemonade-change](https://github.com/smhimran/LeetCode-Solves/tree/master/0890-lemonade-change) |
 | [1014-k-closest-points-to-origin](https://github.com/smhimran/LeetCode-Solves/tree/master/1014-k-closest-points-to-origin) |
 ## Math
 |  |
@@ -49,4 +50,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/smhimran/LeetCode-Solves/tree/master/0739-daily-temperatures) |
+## Greedy
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/smhimran/LeetCode-Solves/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
