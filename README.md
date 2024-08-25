@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/smhimran/LeetCode-Solves/tree/master/0145-binary-tree-postorder-traversal) |
 | [0739-daily-temperatures](https://github.com/smhimran/LeetCode-Solves/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -99,4 +100,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/smhimran/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
+## Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/smhimran/LeetCode-Solves/tree/master/0145-binary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/smhimran/LeetCode-Solves/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/smhimran/LeetCode-Solves/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
