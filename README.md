@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/smhimran/LeetCode-Solves/tree/master/0049-group-anagrams) |
+| [0179-largest-number](https://github.com/smhimran/LeetCode-Solves/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/smhimran/LeetCode-Solves/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/smhimran/LeetCode-Solves/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/smhimran/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/smhimran/LeetCode-Solves/tree/master/0049-group-anagrams) |
+| [0179-largest-number](https://github.com/smhimran/LeetCode-Solves/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/smhimran/LeetCode-Solves/tree/master/0242-valid-anagram) |
 | [0253-meeting-rooms-ii](https://github.com/smhimran/LeetCode-Solves/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/smhimran/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
@@ -57,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0049-group-anagrams](https://github.com/smhimran/LeetCode-Solves/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/smhimran/LeetCode-Solves/tree/master/0058-length-of-last-word) |
+| [0179-largest-number](https://github.com/smhimran/LeetCode-Solves/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/smhimran/LeetCode-Solves/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
@@ -70,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/smhimran/LeetCode-Solves/tree/master/0179-largest-number) |
 | [0253-meeting-rooms-ii](https://github.com/smhimran/LeetCode-Solves/tree/master/0253-meeting-rooms-ii) |
 | [0890-lemonade-change](https://github.com/smhimran/LeetCode-Solves/tree/master/0890-lemonade-change) |
 ## Two Pointers
