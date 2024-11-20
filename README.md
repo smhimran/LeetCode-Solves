@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/smhimran/LeetCode-Solves/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/smhimran/LeetCode-Solves/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/smhimran/LeetCode-Solves/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/smhimran/LeetCode-Solves/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/smhimran/LeetCode-Solves/tree/master/0253-meeting-rooms-ii) |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/smhimran/LeetCode-Solves/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0650-2-keys-keyboard](https://github.com/smhimran/LeetCode-Solves/tree/master/0650-2-keys-keyboard) |
 ## Hash Table
 |  |
