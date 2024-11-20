@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/smhimran/LeetCode-Solves/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/smhimran/LeetCode-Solves/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/smhimran/LeetCode-Solves/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/smhimran/LeetCode-Solves/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/smhimran/LeetCode-Solves/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/smhimran/LeetCode-Solves/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/smhimran/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
@@ -114,8 +115,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/smhimran/LeetCode-Solves/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/smhimran/LeetCode-Solves/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/smhimran/LeetCode-Solves/tree/master/0145-binary-tree-postorder-traversal) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/smhimran/LeetCode-Solves/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/smhimran/LeetCode-Solves/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/smhimran/LeetCode-Solves/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
