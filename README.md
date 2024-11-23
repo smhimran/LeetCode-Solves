@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0990-verifying-an-alien-dictionary](https://github.com/smhimran/LeetCode-Solves/tree/master/0990-verifying-an-alien-dictionary) |
 | [1014-k-closest-points-to-origin](https://github.com/smhimran/LeetCode-Solves/tree/master/1014-k-closest-points-to-origin) |
 | [1206-corporate-flight-bookings](https://github.com/smhimran/LeetCode-Solves/tree/master/1206-corporate-flight-bookings) |
+| [2165-plates-between-candles](https://github.com/smhimran/LeetCode-Solves/tree/master/2165-plates-between-candles) |
 ## Math
 |  |
 | ------- |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/smhimran/LeetCode-Solves/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/smhimran/LeetCode-Solves/tree/master/0242-valid-anagram) |
 | [0990-verifying-an-alien-dictionary](https://github.com/smhimran/LeetCode-Solves/tree/master/0990-verifying-an-alien-dictionary) |
+| [2165-plates-between-candles](https://github.com/smhimran/LeetCode-Solves/tree/master/2165-plates-between-candles) |
 ## Stack
 |  |
 | ------- |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/smhimran/LeetCode-Solves/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/smhimran/LeetCode-Solves/tree/master/0253-meeting-rooms-ii) |
 | [1206-corporate-flight-bookings](https://github.com/smhimran/LeetCode-Solves/tree/master/1206-corporate-flight-bookings) |
+| [2165-plates-between-candles](https://github.com/smhimran/LeetCode-Solves/tree/master/2165-plates-between-candles) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -135,4 +138,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/smhimran/LeetCode-Solves/tree/master/0200-number-of-islands) |
+## Binary Search
+|  |
+| ------- |
+| [2165-plates-between-candles](https://github.com/smhimran/LeetCode-Solves/tree/master/2165-plates-between-candles) |
 <!---LeetCode Topics End-->
