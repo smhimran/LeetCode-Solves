@@ -8,10 +8,6 @@ class Solution:
 
     def generateRLE(self, number: str) -> str:
         rle = ""
-
-        if not number:
-            return rle
-        
         count = 1
         digit = number[0]
 
