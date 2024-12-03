@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/smhimran/LeetCode-Solves/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/smhimran/LeetCode-Solves/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/smhimran/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
+| [0605-can-place-flowers](https://github.com/smhimran/LeetCode-Solves/tree/master/0605-can-place-flowers) |
 | [0739-daily-temperatures](https://github.com/smhimran/LeetCode-Solves/tree/master/0739-daily-temperatures) |
 | [0890-lemonade-change](https://github.com/smhimran/LeetCode-Solves/tree/master/0890-lemonade-change) |
 | [0990-verifying-an-alien-dictionary](https://github.com/smhimran/LeetCode-Solves/tree/master/0990-verifying-an-alien-dictionary) |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0179-largest-number](https://github.com/smhimran/LeetCode-Solves/tree/master/0179-largest-number) |
 | [0253-meeting-rooms-ii](https://github.com/smhimran/LeetCode-Solves/tree/master/0253-meeting-rooms-ii) |
+| [0605-can-place-flowers](https://github.com/smhimran/LeetCode-Solves/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/smhimran/LeetCode-Solves/tree/master/0890-lemonade-change) |
 ## Two Pointers
 |  |
