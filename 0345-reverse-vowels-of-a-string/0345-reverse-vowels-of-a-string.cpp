@@ -1,39 +1,52 @@
 class Solution {
- public:
+public:
     string reverseVowels(string s) {
-        int left = 0, right = s.length() - 1;
-        bool leftFound = false, rightFound = false;
-        
+        int left = 0;
+        int right = s.length() - 1;
+
         while (left < right) {
-            if (isVowel(s[left]))  {
-                leftFound = true;
-            }
-
-            if (isVowel(s[right])) {
-                rightFound = true;
-            }
-
-            if (leftFound && rightFound) {
+            if (isVowel(s[left]) and isVowel(s[right])) {
                 swap(s[left], s[right]);
-                
-                leftFound = false;
-                rightFound = false;
+                left++;
+                right--;
             }
-
-            if (!leftFound) {
+            
+            while (left < s.length() and !isVowel(s[left])) {
                 left++;
             }
-
-            if (!rightFound) {
+            
+            while (right > -1 and !isVowel(s[right])) {
                 right--;
             }
         }
 
         return s;
     }
-    
- private:
+
     bool isVowel(char c) {
-        return (c == 'a' || c == 'A' || c == 'e' || c == 'E' || c == 'i' || c == 'I' || c == 'o' || c == 'O' || c == 'u' || c == 'U');
+        switch (c) {
+            case 'a':
+                return true;
+            case 'A':
+                return true;
+            case 'e':
+                return true;
+            case 'E':
+                return true;
+            case 'i':
+                return true;
+            case 'I':
+                return true;
+            case 'o':
+                return true;
+            case 'O':
+                return true;
+            case 'u':
+                return true;
+            case 'U':
+                return true;
+            default:
+                return false;
+        }
     }
 };
