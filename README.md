@@ -154,4 +154,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/smhimran/LeetCode-Solves/tree/master/2232-adding-spaces-to-a-string) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/smhimran/LeetCode-Solves/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
