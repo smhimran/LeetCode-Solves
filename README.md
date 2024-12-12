@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1206-corporate-flight-bookings](https://github.com/smhimran/LeetCode-Solves/tree/master/1206-corporate-flight-bookings) |
 | [2165-plates-between-candles](https://github.com/smhimran/LeetCode-Solves/tree/master/2165-plates-between-candles) |
 | [2232-adding-spaces-to-a-string](https://github.com/smhimran/LeetCode-Solves/tree/master/2232-adding-spaces-to-a-string) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/smhimran/LeetCode-Solves/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Math
 |  |
 | ------- |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0253-meeting-rooms-ii](https://github.com/smhimran/LeetCode-Solves/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/smhimran/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/smhimran/LeetCode-Solves/tree/master/1014-k-closest-points-to-origin) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/smhimran/LeetCode-Solves/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Quickselect
 |  |
 | ------- |
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/smhimran/LeetCode-Solves/tree/master/2232-adding-spaces-to-a-string) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/smhimran/LeetCode-Solves/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Database
 |  |
 | ------- |
