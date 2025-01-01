@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/smhimran/LeetCode-Solves/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/smhimran/LeetCode-Solves/tree/master/0345-reverse-vowels-of-a-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/smhimran/LeetCode-Solves/tree/master/0990-verifying-an-alien-dictionary) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/smhimran/LeetCode-Solves/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2165-plates-between-candles](https://github.com/smhimran/LeetCode-Solves/tree/master/2165-plates-between-candles) |
 | [2232-adding-spaces-to-a-string](https://github.com/smhimran/LeetCode-Solves/tree/master/2232-adding-spaces-to-a-string) |
 ## Stack
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/smhimran/LeetCode-Solves/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/smhimran/LeetCode-Solves/tree/master/0253-meeting-rooms-ii) |
 | [1206-corporate-flight-bookings](https://github.com/smhimran/LeetCode-Solves/tree/master/1206-corporate-flight-bookings) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/smhimran/LeetCode-Solves/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2165-plates-between-candles](https://github.com/smhimran/LeetCode-Solves/tree/master/2165-plates-between-candles) |
 ## Dynamic Programming
 |  |
