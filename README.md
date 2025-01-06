@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0990-verifying-an-alien-dictionary](https://github.com/smhimran/LeetCode-Solves/tree/master/0990-verifying-an-alien-dictionary) |
 | [1014-k-closest-points-to-origin](https://github.com/smhimran/LeetCode-Solves/tree/master/1014-k-closest-points-to-origin) |
 | [1206-corporate-flight-bookings](https://github.com/smhimran/LeetCode-Solves/tree/master/1206-corporate-flight-bookings) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/smhimran/LeetCode-Solves/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2165-plates-between-candles](https://github.com/smhimran/LeetCode-Solves/tree/master/2165-plates-between-candles) |
 | [2232-adding-spaces-to-a-string](https://github.com/smhimran/LeetCode-Solves/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/smhimran/LeetCode-Solves/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/smhimran/LeetCode-Solves/tree/master/0345-reverse-vowels-of-a-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/smhimran/LeetCode-Solves/tree/master/0990-verifying-an-alien-dictionary) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/smhimran/LeetCode-Solves/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/smhimran/LeetCode-Solves/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2165-plates-between-candles](https://github.com/smhimran/LeetCode-Solves/tree/master/2165-plates-between-candles) |
 | [2232-adding-spaces-to-a-string](https://github.com/smhimran/LeetCode-Solves/tree/master/2232-adding-spaces-to-a-string) |
 ## Stack
@@ -104,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0253-meeting-rooms-ii](https://github.com/smhimran/LeetCode-Solves/tree/master/0253-meeting-rooms-ii) |
 | [1206-corporate-flight-bookings](https://github.com/smhimran/LeetCode-Solves/tree/master/1206-corporate-flight-bookings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/smhimran/LeetCode-Solves/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/smhimran/LeetCode-Solves/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2165-plates-between-candles](https://github.com/smhimran/LeetCode-Solves/tree/master/2165-plates-between-candles) |
 ## Dynamic Programming
 |  |
