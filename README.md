@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/smhimran/LeetCode-Solves/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/smhimran/LeetCode-Solves/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/smhimran/LeetCode-Solves/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/smhimran/LeetCode-Solves/tree/master/0058-length-of-last-word) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/smhimran/LeetCode-Solves/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/smhimran/LeetCode-Solves/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/smhimran/LeetCode-Solves/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/smhimran/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
@@ -172,4 +174,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/smhimran/LeetCode-Solves/tree/master/1524-string-matching-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/smhimran/LeetCode-Solves/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
