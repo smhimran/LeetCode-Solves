@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2165-plates-between-candles](https://github.com/smhimran/LeetCode-Solves/tree/master/2165-plates-between-candles) |
 | [2232-adding-spaces-to-a-string](https://github.com/smhimran/LeetCode-Solves/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/smhimran/LeetCode-Solves/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/smhimran/LeetCode-Solves/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Math
 |  |
 | ------- |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/smhimran/LeetCode-Solves/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2165-plates-between-candles](https://github.com/smhimran/LeetCode-Solves/tree/master/2165-plates-between-candles) |
 | [2232-adding-spaces-to-a-string](https://github.com/smhimran/LeetCode-Solves/tree/master/2232-adding-spaces-to-a-string) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/smhimran/LeetCode-Solves/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Stack
 |  |
 | ------- |
@@ -174,8 +176,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/smhimran/LeetCode-Solves/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/smhimran/LeetCode-Solves/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/smhimran/LeetCode-Solves/tree/master/0003-longest-substring-without-repeating-characters) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/smhimran/LeetCode-Solves/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/smhimran/LeetCode-Solves/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/smhimran/LeetCode-Solves/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
