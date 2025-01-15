@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0253-meeting-rooms-ii](https://github.com/smhimran/LeetCode-Solves/tree/master/0253-meeting-rooms-ii) |
 | [0605-can-place-flowers](https://github.com/smhimran/LeetCode-Solves/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/smhimran/LeetCode-Solves/tree/master/0890-lemonade-change) |
+| [2509-minimize-xor](https://github.com/smhimran/LeetCode-Solves/tree/master/2509-minimize-xor) |
 ## Two Pointers
 |  |
 | ------- |
@@ -193,4 +194,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/smhimran/LeetCode-Solves/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2509-minimize-xor](https://github.com/smhimran/LeetCode-Solves/tree/master/2509-minimize-xor) |
 <!---LeetCode Topics End-->
