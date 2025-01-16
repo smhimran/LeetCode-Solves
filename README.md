@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/smhimran/LeetCode-Solves/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2165-plates-between-candles](https://github.com/smhimran/LeetCode-Solves/tree/master/2165-plates-between-candles) |
 | [2232-adding-spaces-to-a-string](https://github.com/smhimran/LeetCode-Solves/tree/master/2232-adding-spaces-to-a-string) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/smhimran/LeetCode-Solves/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/smhimran/LeetCode-Solves/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/smhimran/LeetCode-Solves/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Math
@@ -198,4 +199,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2509-minimize-xor](https://github.com/smhimran/LeetCode-Solves/tree/master/2509-minimize-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/smhimran/LeetCode-Solves/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/smhimran/LeetCode-Solves/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
