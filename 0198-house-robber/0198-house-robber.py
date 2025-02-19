@@ -22,3 +22,4 @@ class Solution:
         self.dp[i] = robbed
 
         return robbed
+        
