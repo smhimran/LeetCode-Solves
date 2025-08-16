@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/smhimran/LeetCode-Solves/tree/master/0050-powx-n) |
+| [0342-power-of-four](https://github.com/smhimran/LeetCode-Solves/tree/master/0342-power-of-four) |
 | [0650-2-keys-keyboard](https://github.com/smhimran/LeetCode-Solves/tree/master/0650-2-keys-keyboard) |
 | [1014-k-closest-points-to-origin](https://github.com/smhimran/LeetCode-Solves/tree/master/1014-k-closest-points-to-origin) |
 ## Divide and Conquer
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/smhimran/LeetCode-Solves/tree/master/0050-powx-n) |
+| [0342-power-of-four](https://github.com/smhimran/LeetCode-Solves/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -210,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/smhimran/LeetCode-Solves/tree/master/0342-power-of-four) |
 | [2509-minimize-xor](https://github.com/smhimran/LeetCode-Solves/tree/master/2509-minimize-xor) |
 | [2529-range-product-queries-of-powers](https://github.com/smhimran/LeetCode-Solves/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/smhimran/LeetCode-Solves/tree/master/2533-bitwise-xor-of-all-pairings) |
