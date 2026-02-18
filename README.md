@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/smhimran/LeetCode-Solves/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/smhimran/LeetCode-Solves/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/smhimran/LeetCode-Solves/tree/master/0058-length-of-last-word) |
+| [0076-minimum-window-substring](https://github.com/smhimran/LeetCode-Solves/tree/master/0076-minimum-window-substring) |
 | [0179-largest-number](https://github.com/smhimran/LeetCode-Solves/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/smhimran/LeetCode-Solves/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/smhimran/LeetCode-Solves/tree/master/0345-reverse-vowels-of-a-string) |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/smhimran/LeetCode-Solves/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/smhimran/LeetCode-Solves/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/smhimran/LeetCode-Solves/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/smhimran/LeetCode-Solves/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/smhimran/LeetCode-Solves/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/smhimran/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
@@ -201,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/smhimran/LeetCode-Solves/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/smhimran/LeetCode-Solves/tree/master/0076-minimum-window-substring) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/smhimran/LeetCode-Solves/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Trie
 |  |
