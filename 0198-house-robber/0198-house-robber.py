@@ -1,25 +1,16 @@
 class Solution:
-    def __init__(self):
-        self.dp = [None] * 101
-        self.house = []
-
     def rob(self, nums: List[int]) -> int:
-        self.house = nums
-        return self.solve(0)
+        dp = {}
 
-    def solve(self, i: int):
-        if (i >= len(self.house)):
-            return 0
+        def solve(i: int):
+            if i >= len(nums):
+                return 0
 
-        if self.dp[i] is not None:
-            return self.dp[i]
+            if i in dp:
+                return dp[i]
 
-        self.dp[i] = 0
+            dp[i] = max(solve(i + 1), nums[i] + solve(i + 2))
 
-        robbed = self.solve(i + 1)
-        robbed = max(robbed, self.house[i] + self.solve(i + 2))
+            return dp[i]
 
-        self.dp[i] = robbed
-
-        return robbed
-        
+        return solve(0)
