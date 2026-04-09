@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/smhimran/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/smhimran/LeetCode-Solves/tree/master/0605-can-place-flowers) |
 | [0739-daily-temperatures](https://github.com/smhimran/LeetCode-Solves/tree/master/0739-daily-temperatures) |
+| [0778-swim-in-rising-water](https://github.com/smhimran/LeetCode-Solves/tree/master/0778-swim-in-rising-water) |
 | [0890-lemonade-change](https://github.com/smhimran/LeetCode-Solves/tree/master/0890-lemonade-change) |
 | [0990-verifying-an-alien-dictionary](https://github.com/smhimran/LeetCode-Solves/tree/master/0990-verifying-an-alien-dictionary) |
 | [1014-k-closest-points-to-origin](https://github.com/smhimran/LeetCode-Solves/tree/master/1014-k-closest-points-to-origin) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/smhimran/LeetCode-Solves/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/smhimran/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
+| [0778-swim-in-rising-water](https://github.com/smhimran/LeetCode-Solves/tree/master/0778-swim-in-rising-water) |
 | [1014-k-closest-points-to-origin](https://github.com/smhimran/LeetCode-Solves/tree/master/1014-k-closest-points-to-origin) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/smhimran/LeetCode-Solves/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Quickselect
@@ -162,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/smhimran/LeetCode-Solves/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/smhimran/LeetCode-Solves/tree/master/0200-number-of-islands) |
+| [0778-swim-in-rising-water](https://github.com/smhimran/LeetCode-Solves/tree/master/0778-swim-in-rising-water) |
 ## Binary Tree
 |  |
 | ------- |
@@ -170,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/smhimran/LeetCode-Solves/tree/master/0200-number-of-islands) |
+| [0778-swim-in-rising-water](https://github.com/smhimran/LeetCode-Solves/tree/master/0778-swim-in-rising-water) |
 ## Union Find
 |  |
 | ------- |
@@ -178,10 +182,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/smhimran/LeetCode-Solves/tree/master/0200-number-of-islands) |
+| [0778-swim-in-rising-water](https://github.com/smhimran/LeetCode-Solves/tree/master/0778-swim-in-rising-water) |
 | [1677-matrix-diagonal-sum](https://github.com/smhimran/LeetCode-Solves/tree/master/1677-matrix-diagonal-sum) |
 ## Binary Search
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/smhimran/LeetCode-Solves/tree/master/0778-swim-in-rising-water) |
 | [2165-plates-between-candles](https://github.com/smhimran/LeetCode-Solves/tree/master/2165-plates-between-candles) |
 ## Simulation
 |  |
@@ -237,4 +243,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1203-print-in-order](https://github.com/smhimran/LeetCode-Solves/tree/master/1203-print-in-order) |
+## Union-Find
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/smhimran/LeetCode-Solves/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
