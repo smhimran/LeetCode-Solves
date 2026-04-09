@@ -1,43 +1,50 @@
-import heapq
-
-
 class Solution:
     def __init__(self):
         self.ROW = [+1, -1, 0, 0]
         self.COL = [0, 0, +1, -1]
 
-    def isValidCell(self, n: int, row: int, column: int) -> bool:
-        if row < 0 or column < 0 or row >= n or column >= n:
-            return False
-        return True
+    def _dfs(self, row, col, t, grid, visited, visitable, n):
+        stack = [(row, col)]
+        while stack:
+            r, c = stack.pop()
+            if (r, c) in visited:
+                continue
 
-    def swimInWater(self, grid: List[List[int]]) -> int:
-        heap = []
-        heapq.heapify(heap)
-
-        n = len(grid)
-        visited = [[False for _ in range(n)] for _ in range(n)]
-
-        heapq.heappush(heap, (grid[0][0], 0, 0))
-        visited[0][0] = True
-
-        while heap:
-            cost, row, column = heapq.heappop(heap)
-            if row == n - 1 and column == n - 1:
-                return cost
+            visited[(r, c)] = True
 
             for i in range(4):
-                next_row = row + self.ROW[i]
-                next_column = column + self.COL[i]
+                nr = r + self.ROW[i]
+                nc = c + self.COL[i]
 
-                if not self.isValidCell(n, next_row, next_column):
+                if nr < 0 or nr >= n or nc < 0 or nc >= n:
+                    continue
+                if (nr, nc) in visited:
                     continue
 
-                if visited[next_row][next_column]:
-                    continue
+                if grid[nr][nc] <= t:
+                    stack.append((nr, nc))
+                else:
+                    visitable[grid[nr][nc]].append((nr, nc))
 
-                next_time = max(cost, grid[next_row][next_column])
-                heapq.heappush(heap, (next_time, next_row, next_column))
-                visited[next_row][next_column] = True
+    def swimInWater(self, grid: List[List[int]]) -> int:
+        visited = {}
+        visitable = defaultdict(list)
+
+        visitable[grid[0][0]].append((0, 0))
+
+        t = 0
+        n = len(grid)
+
+        while t <= 2500:
+            for row, col in visitable[t]:
+                if (row, col) in visited:
+                    continue
+                self._dfs(row, col, t, grid, visited, visitable, n)
+
+            # Check AFTER all DFS expansions at time t are done
+            if (n - 1, n - 1) in visited:
+                return t
+
+            t += 1
 
         return -1
