@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/smhimran/LeetCode-Solves/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/smhimran/LeetCode-Solves/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/smhimran/LeetCode-Solves/tree/master/0253-meeting-rooms-ii) |
+| [0268-missing-number](https://github.com/smhimran/LeetCode-Solves/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/smhimran/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/smhimran/LeetCode-Solves/tree/master/0605-can-place-flowers) |
 | [0739-daily-temperatures](https://github.com/smhimran/LeetCode-Solves/tree/master/0739-daily-temperatures) |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/smhimran/LeetCode-Solves/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/smhimran/LeetCode-Solves/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/smhimran/LeetCode-Solves/tree/master/0342-power-of-four) |
 | [0650-2-keys-keyboard](https://github.com/smhimran/LeetCode-Solves/tree/master/0650-2-keys-keyboard) |
 | [1014-k-closest-points-to-origin](https://github.com/smhimran/LeetCode-Solves/tree/master/1014-k-closest-points-to-origin) |
@@ -56,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/smhimran/LeetCode-Solves/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/smhimran/LeetCode-Solves/tree/master/0242-valid-anagram) |
 | [0253-meeting-rooms-ii](https://github.com/smhimran/LeetCode-Solves/tree/master/0253-meeting-rooms-ii) |
+| [0268-missing-number](https://github.com/smhimran/LeetCode-Solves/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/smhimran/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/smhimran/LeetCode-Solves/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
@@ -145,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/smhimran/LeetCode-Solves/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/smhimran/LeetCode-Solves/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/smhimran/LeetCode-Solves/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/smhimran/LeetCode-Solves/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/smhimran/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
 | [0990-verifying-an-alien-dictionary](https://github.com/smhimran/LeetCode-Solves/tree/master/0990-verifying-an-alien-dictionary) |
 ## Bucket Sort
@@ -187,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/smhimran/LeetCode-Solves/tree/master/0268-missing-number) |
 | [0778-swim-in-rising-water](https://github.com/smhimran/LeetCode-Solves/tree/master/0778-swim-in-rising-water) |
 | [2165-plates-between-candles](https://github.com/smhimran/LeetCode-Solves/tree/master/2165-plates-between-candles) |
 ## Simulation
@@ -226,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/smhimran/LeetCode-Solves/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/smhimran/LeetCode-Solves/tree/master/0342-power-of-four) |
 | [2509-minimize-xor](https://github.com/smhimran/LeetCode-Solves/tree/master/2509-minimize-xor) |
 | [2529-range-product-queries-of-powers](https://github.com/smhimran/LeetCode-Solves/tree/master/2529-range-product-queries-of-powers) |
