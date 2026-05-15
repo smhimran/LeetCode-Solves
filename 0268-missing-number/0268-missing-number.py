@@ -1,16 +1,6 @@
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:
-        sorted_nums = [-1] * len(nums)
+        expected_sum = (len(nums) * (len(nums) + 1)) // 2
+        actual_sum = sum(nums)
 
-        for i in nums:
-            if i == len(nums):
-                sorted_nums[-1] = i
-                continue
-
-            sorted_nums[i] = i
-
-        for index, i in enumerate(sorted_nums):
-            if i != index:
-                return index
-
-        return len(nums)
+        return expected_sum - actual_sum
