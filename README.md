@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/smhimran/LeetCode-Solves/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/smhimran/LeetCode-Solves/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/smhimran/LeetCode-Solves/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/smhimran/LeetCode-Solves/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/smhimran/LeetCode-Solves/tree/master/0198-house-robber) |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/smhimran/LeetCode-Solves/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/smhimran/LeetCode-Solves/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/smhimran/LeetCode-Solves/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/smhimran/LeetCode-Solves/tree/master/0342-power-of-four) |
 | [0650-2-keys-keyboard](https://github.com/smhimran/LeetCode-Solves/tree/master/0650-2-keys-keyboard) |
